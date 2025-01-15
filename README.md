@@ -1,11 +1,11 @@
 # CSharp-PocoCommandLineReader
 
-![Sample usage](/screenshots/Sample.gif?raw=true)
-
 Automate reading simple POCOs from command line. And by simple I mean *really* simple:
 
 - either built-in types;
 - or collection of scalar values.
+
+![Sample usage](/screenshots/Sample.gif?raw=true)
 
 Supported built-in types:
 
