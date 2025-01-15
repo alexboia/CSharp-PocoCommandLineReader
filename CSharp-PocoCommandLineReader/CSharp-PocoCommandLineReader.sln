@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-PocoCommandLineReader", "CSharp-PocoCommandLineReader.csproj", "{43D7B6A8-BA5B-455E-8061-4487DB49CC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-PocoCommandLineReader.SampleUsage", "..\CSharp-PocoCommandLineReader.SampleUsage\CSharp-PocoCommandLineReader.SampleUsage.csproj", "{AE41B47E-0A37-4B9E-87E1-880E3BFB96E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA088DAC-0AAD-4A82-8BE1-26098B04C50B}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D7B6A8-BA5B-455E-8061-4487DB49CC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D7B6A8-BA5B-455E-8061-4487DB49CC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D7B6A8-BA5B-455E-8061-4487DB49CC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D7B6A8-BA5B-455E-8061-4487DB49CC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE41B47E-0A37-4B9E-87E1-880E3BFB96E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE41B47E-0A37-4B9E-87E1-880E3BFB96E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE41B47E-0A37-4B9E-87E1-880E3BFB96E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE41B47E-0A37-4B9E-87E1-880E3BFB96E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDD95AC-0F55-48ED-9B23-79D9115510A5}
+	EndGlobalSection
+EndGlobal
