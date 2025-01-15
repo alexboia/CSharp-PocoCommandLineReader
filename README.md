@@ -7,6 +7,11 @@ Automate reading simple POCOs from command line. And by simple I mean *really* s
 
 ![Sample usage](/screenshots/Sample.gif?raw=true)
 
+It is more of a fun project, a lame kata, if you will, to practice the basics, but it has proved useful in some manual testing scenarios.
+I do hope it will help others as well.
+
+## Support
+
 Supported built-in types:
 
 - `int`
@@ -51,6 +56,8 @@ Supported collection types (typed colllections, type can be any of the above):
 I used this [nifty little class](https://github.com/raminrahimzada/cConsole) by @raminrahimzada to provide colored console output when rendering the prompts.
 
 ## How to use
+
+No library to install. Just copy the source files wherever you need and then do something like this:
 
 ```csharp
 PocoCommandLineReader<CustomerSummary> reader = new PocoCommandLineReader<CustomerSummary>();
