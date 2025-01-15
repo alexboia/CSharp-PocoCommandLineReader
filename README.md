@@ -57,7 +57,7 @@ PocoCommandLineReader<CustomerSummary> reader = new PocoCommandLineReader<Custom
 CustomerSummary obj = reader.Read( "Read customer summary" );
 ```
 
-Also see samples (`CSharp-PocoCommandLineReader.SampleUsage`).
+Also see samples ([`CSharp-PocoCommandLineReader.SampleUsage`](https://github.com/alexboia/CSharp-PocoCommandLineReader/blob/main/CSharp-PocoCommandLineReader.SampleUsage/Program.cs)).
 
 ## What's next
 
