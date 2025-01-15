@@ -7,7 +7,7 @@ Automate reading simple POCOs from command line. And by simple I mean *really* s
 
 ![Sample usage](/screenshots/Sample.gif?raw=true)
 
-It is more of a fun project, a lame kata, if you will, to practice the basics, but it has proved useful in some manual testing scenarios.
+It is more of a fun project, a lame kata, if you will, to practice the basics, but it proved useful in some manual testing scenarios as well.
 I do hope it will help others as well.
 
 ## Support
